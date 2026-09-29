@@ -1,7 +1,6 @@
 # Project folder
 cache/
 **/__pycache__/
-.claude/verify
 
 # third-party library
 

@@ -1,0 +1,8 @@
+{
+  "研究項目": "伺服器回應格式",
+  "輸出文件": "doc/poc/02.fastapi-response-technology-specification.md",
+  "程式語言": "Python, 軟體框架 FastAPI",
+  "映像檔名稱": "workkit-research:dbe95b43445bd0934a5444da0a842b1c",
+  "驗證方式": "Docker 實測",
+  "驗證日期": "2026-09-29"
+}
